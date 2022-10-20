@@ -29,3 +29,25 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Technight27&show_icons=true&locale=en" alt="Technight27" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Technight27&" alt="Technight27" /></p>
+
+
+## Github Trophies
+
+<br/>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Technight27&theme=juicyfresh&no-frame=false" width="650">
+</div><br/><br/>
+
+
+## My Stats
+
+<div align="center">
+          
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Technight27&theme=radical" width="798"><br>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Technight27&theme=radical" width="392">&nbsp;&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Technight27&theme=radical" width="389"><br>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Technight27&theme=radical" width="392">&nbsp;&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Technight27369&theme=radical" width="389">
+</div>
+
+
