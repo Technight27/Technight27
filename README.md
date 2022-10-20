@@ -5,6 +5,14 @@
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayancoder27@gmail.com)
 [![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Technight27
+&label=Profile%20views&color=0e75b6&style=flat" alt="Technight27
+" /> </p>
+
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Technight27
+" alt="Technight27
+" /></a> </p>-->
+
 
 
 
