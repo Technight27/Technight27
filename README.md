@@ -26,9 +26,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Technight27&show_icons=true&locale=en&layout=compact&theme=radical" alt="Technight27" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Technight27&show_icons=true&locale=en" alt="Technight27" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Technight27&show_icons=true&locale=en&theme=radical" alt="Technight27" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Technight27&" alt="Technight27" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Technight27&theme=radical" alt="Technight27" /></p>
 
 
 ## Github Trophies
