@@ -16,7 +16,7 @@
 
 
 
-- 🔭 I’m currently working on python
+- 🔭 I’m currently working on python, C++
 - 🌱 I’m currently learning python, DSA, AI, ML
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with data structures and algorithms
