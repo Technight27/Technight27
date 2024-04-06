@@ -21,7 +21,7 @@
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with data structures and algorithms
 - 💬 Ask me about anything,am happy to help
-- 📫 How to reach me: sayancoder27@gmail.com
+- 📫 How to reach me: sayan27501@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  title="Java" alt="Java" width="50" height="50"/>&nbsp;&nbsp <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank">  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="VSCode" width="50" height="50"/>&nbsp;&nbsp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp; &nbsp; </a> </p>
