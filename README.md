@@ -1,9 +1,9 @@
 # Hi 👋, I'm Sayan Mondal
 
 
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayan-mondal-96852a1b6/)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayan-mondal-88b089304/)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayancoder27@gmail.com)
-[![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Technight27&label=Profile%20views&color=0e75b6&style=flat" alt="Technight27" /> </p>
 
