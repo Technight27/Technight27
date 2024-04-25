@@ -27,7 +27,7 @@
   ## Find Me
 
 <br/>
-<div align="center">
+<div align="left">
 <a href="mailto:sayan27501@gmail.com" target="_blank"> <img src="https://user-images.githubusercontent.com/100613640/167249537-2538da78-a5c8-41d0-b7b8-4cd7503f43e6.png" title="Gmail" width='50'></a>&nbsp;
 <a href="https://www.linkedin.com/in/sayan-mondal-88b089304/" target="_blank"> <img src="https://user-images.githubusercontent.com/100613640/167250457-c7030156-9316-4903-8215-477f2c31990f.png" title="LinkedIn" width='50'></a>&nbsp;
 <a href="https://leetcode.com/sayan27/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" title="Leetcode" width='50'></a>&nbsp;
