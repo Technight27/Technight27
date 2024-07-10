@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on python, C++
 - 🌱 I’m currently learning python, DSA, AI, ML, Web developement
-- 👯 I’m looking to collaborate on projects
+- 👯 I’m looking to collaborate on projects in the fields of M
 - 🤔 I’m looking for help with data structures and algorithms
 - 💬 Ask me about anything,am happy to help
 - 📫 How to reach me: sayan27501@gmail.com
